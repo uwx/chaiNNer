@@ -12,7 +12,7 @@ const config = {
             name: '@electron-forge/publisher-github',
             config: {
                 repository: {
-                    owner: 'chaiNNer-org',
+                    owner: 'uwx',
                     name: 'chaiNNer',
                 },
             },
